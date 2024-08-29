@@ -48,6 +48,10 @@ git commit -m "nombre_del_commit"
 ```bash
 git log
 ```
+### Config
+```bash
+git config --global -e
+```
 
 ### Alias
 ```bash

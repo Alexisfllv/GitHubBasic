@@ -11,15 +11,16 @@ Antes de comenzar a usar Git, es importante configurarlo correctamente.
 ### Configurar tu identidad
 
 Esto es necesario para que tus commits estén correctamente asociados con tu nombre y correo electrónico.
-
+#### Name
 ```bash
 git config --global user.name "Tu Nombre"
+```
+#### Email
+```bash
 git config --global user.email "tuemail@example.com"
 ```
 
 ## 3. Agregar Alias 
 
-\```bash
-echo "Este es un ejemplo de comando"
-\```
+
 

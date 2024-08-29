@@ -18,3 +18,8 @@ git config --global user.email "tuemail@example.com"
 ```
 
 ## 3. Agregar Alias 
+
+\```bash
+echo "Este es un ejemplo de comando"
+\```
+
